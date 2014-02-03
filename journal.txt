@@ -1,8 +1,8 @@
-Authors :
-Title :
+Authors : Fiona Fraser	
+Title : Best paper ever !
 
-Introduction :
-Data :
-Analysis :
-Conclusion :
+Introduction : Some background
+Data : Not yet
+Analysis : Need data
+Conclusion : Too soon
 
