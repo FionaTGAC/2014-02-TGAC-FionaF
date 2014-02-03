@@ -1,8 +1,8 @@
-Authors : Fiona Fraser	
-Title : Best paper ever !
+Authors : Fiona Fraser, David Baker	
+Title : Best paper ever + PacBio
 
 Introduction : Some background
 Data : Not yet
-Analysis : Need data
+Analysis : Need data, PacBio data
 Conclusion : Revolutionary
 
