@@ -1,8 +1,8 @@
-Authors : Fiona Fraser	
-Title : Best paper ever !
+Authors :JOhn Smith,  Fiona Fraser	
+Title : Best paper ever (not any more) !
 
-Introduction : Some background
-Data : Not yet
+Introduction : Some background (he's changed direction)
+Data : Not yet (POOR QUALITY)
 Analysis : Need data
 Conclusion : Revolutionary
 
