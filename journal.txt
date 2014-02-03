@@ -4,5 +4,5 @@ Title : Best paper ever !
 Introduction : Some background
 Data : Not yet
 Analysis : Need data
-Conclusion : Too soon
+Conclusion : Revolutionary
 
